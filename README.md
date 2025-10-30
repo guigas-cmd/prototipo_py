@@ -1,1 +1,1 @@
-# prototipo_py
+Este projeto automatiza todo o fluxo de abertura de um relatório Power BI (.pbix), simula interações para filtrar e exportar dados, e salva os resultados em um diretório específico com nomeação baseada na data atual. A automação é feita via PyAutoGUI, simulando interações humanas no ambiente Windows
